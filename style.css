@@ -38,6 +38,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+/* the main the image create class and 100% width  */
 .imagestart {
   width: 100%;
 }
